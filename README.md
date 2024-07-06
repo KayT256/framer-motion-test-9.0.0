@@ -1,6 +1,6 @@
 # "Framer Motion animate on state update" test on version 9.0.0
 
-Replicate the [Example](https://codesandbox.io/s/framer-motion-animate-on-state-update-ns67ib?from-embed=&file=/package.json:165-189) from Framer Motion documentation.
+Replicate the [Example](https://codesandbox.io/s/framer-motion-animate-on-state-update-ns67ib?from-embed) from Framer Motion documentation.
 
 In Framer Motion version 9.0.0 and older, when changing the value suddenly, the .box div move/ rotate smoothly. Try it in my [Replication](https://framer-motion-test-9-0-0.vercel.app/) that I have deployed with Framer Motion version 9.0.0.
 
